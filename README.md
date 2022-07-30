@@ -1,3 +1,5 @@
+![alt text](./scrot.png)
+
 This is just a handful of desktop files and a rofi config that can be used to get a power menu without having to worry about custom modes, bash scripting, fancy icon fonts, and the like.
 
 Copy the .desktop files to `~/.local/share/applications/` and run `update-desktop-database ~/.local/share/applications`.
